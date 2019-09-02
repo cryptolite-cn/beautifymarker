@@ -1,0 +1,18 @@
+{
+  "name": "beautifymarker",
+  "version": "1.0.0",
+  "description": "beautifymarker for leaflet in es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "style": "lib/leaflet-beautify-marker-icon.css",
+  "keywords": [
+    "beautifymarker"
+  ],
+  "author": "cryptolite",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "1.1.0"
+  }
+}
