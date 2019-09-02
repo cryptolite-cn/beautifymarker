@@ -1,5 +1,5 @@
 {
-  "name": "leaflet.beautifymarker",
+  "name": "cryptolite.beautifymarker",
   "version": "1.0.0",
   "description": "beautifymarker for leaflet in es6",
   "main": "index.js",
